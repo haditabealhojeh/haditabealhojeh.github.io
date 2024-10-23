@@ -1,14 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: نام و نام خانوادگی
       value: هادی تابع الحجه
     - name: Date of Birth
       value: 
-    - name: Languages
+    - name: زبان‌ها
       value: انگلیسی, فارسی , عربی
 
-- title: Education
+- title: تحصیلات
   type: time_table
   contents:
     - title: PhD
