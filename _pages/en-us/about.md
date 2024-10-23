@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Isfahan, Isfahan, Iran.
+subtitle: Lecturer at University of Isfahan, Isfahan, Iran.
 
 profile:
   align: right
