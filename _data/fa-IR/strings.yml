@@ -11,18 +11,18 @@ citation:
   introduction: "If you found this useful, please cite this as:"
 contact_note: You can even add a little note about which of these is the best way to reach you.
 cv:
-  address: Address
+  address: آدرس
   area: Area
   awarder: Awarder
-  awards: Awards
+  awards: دستاوردها
   basics: General information
   certificates: Certificates
-  city: City
+  city: شهر
   countryCode: Country code
-  courses: Courses
-  date: Date
-  education: Education
-  email: Email
+  courses: درس‌ها
+  date: تاریخ
+  education: تحصیلات
+  email: پست الکترونیکی
   endDate: End date
   fluency: Fluency
   highlights: Highlights
@@ -39,11 +39,11 @@ cv:
   name: Name
   network: Network
   organization: Organization
-  phone: Phone
+  phone: تماس
   position: Position
   postalCode: Postal Code
   profiles: Profiles
-  projects: Projects
+  projects: پروژه‌ها
   publications: Publications
   publisher: Publisher
   reference: Reference
@@ -131,7 +131,7 @@ search:
     description: Change the theme of the site to Light
     title: Change theme to light
   navigation: Navigation menu
-  news: News
+  news: اخبار
   placeholder: Type to start searching
   posts: Posts
   projects: Projects
