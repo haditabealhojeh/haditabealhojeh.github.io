@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://haditabealhojeh.github.io/sitemap.xml
