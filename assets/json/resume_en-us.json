@@ -184,17 +184,17 @@
       "name": "Optimization",
       "icon": "",
       "keywords": [
-        "Optimization for Deep learning, especially LLMs",
-        "Geometry-aware optimization on Riemannian manifolds and their app. in machine learning"
+        "- Optimization for Deep learning, especially LLMs",
+        "- Geometry-aware optimization on Riemannian manifolds and their app. in machine learning"
       ]
     },
     {
       "name": "Machine learning",
       "icon": "",
       "keywords": [
-        "Meta-learning",
-        "Multi-modal learning",
-        "Deep learning"
+        "- Meta-learning",
+        "- Multi-modal learning",
+        "- Deep learning"
       ]
     }
   ]
