@@ -11,22 +11,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in AI & Robotics
       institution: University of Isfahan, Isfahan, Iran
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: MSc.
+        - Meta-Learning in Riemannian spaces.
+        #- Description 2.
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: MSc. in AI
       institution: Shahid Chamran University of Ahvaz, Iran
       year: 20115
       description:
-        - Description 1.
-        - Description 2.
+        - Improving Farsi Ontology Matching Using Enriched Background Knowledge.
 
 # - title: Experience
 #   type: time_table
