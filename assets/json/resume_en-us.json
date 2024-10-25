@@ -1,20 +1,20 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hadi Tabealhojeh",
+    "label": "AI scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://george-gca.github.io/multi-language-al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tabealhoje.hadi@gmail.com",
+    "phone": "",
+    "url": "https://haditabealhojeh.github.io/",
+    "summary": "University lecturer at university of isfahan, Iran",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
+      //"address": "2712 Broadway St",
+      //"postalCode": "CA 94115",
+      "city": "Isfahan",
+      "countryCode": "IR"
+      //"region": "California"
+    }
+    /*"profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
@@ -197,4 +197,5 @@
       "url": "https://example.com"
     }
   ]
+    */
 }
