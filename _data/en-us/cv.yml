@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 1990
     - name: Languages
-      value: English, Persian (Farsi), Arabic
+      value: English, Persian, Arabic
 
 - title: Education
   type: time_table
