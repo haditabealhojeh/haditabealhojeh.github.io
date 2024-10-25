@@ -4,7 +4,7 @@
     - name: Full Name
       value: Hadi Tabealhojeh
     - name: Date of Birth
-      value: 
+      value: 1990
     - name: Languages
       value: English, Persian (Farsi), Arabic
 
@@ -82,19 +82,20 @@
 #       items:
 #         - Max Planck Medal
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+ - title: Academic Interests
+   type: nested_list
+   contents:
+     - title: Optimization.
+       items:
+         - Optimization for Deep learning, especially LLMs.
+         - Geometry-aware optimization on Riemannian manifolds and their app. in machine learning.
+     - title: Machine learining.
+       items:
+         - Meta-learning.
+         - Multi-modal learning.
+         - Deep learning.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+ - title: Other Interests
+   type: list
+   contents:
+     - <u>Hobbies:</u> tabble tennis, reading books.
