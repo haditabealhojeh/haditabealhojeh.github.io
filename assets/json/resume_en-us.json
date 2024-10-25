@@ -16,12 +16,13 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Scholar",
+        "username": "haditabealhojeh",
+        "url": "https://scholar.google.com/citations?user=dd8X_HgAAAAJ"
       }
     ]
-  },
+  }
+  /*,
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -197,5 +198,5 @@
       "url": "https://example.com"
     }
   ]
-    
+*/    
 }
