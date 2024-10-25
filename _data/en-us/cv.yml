@@ -82,20 +82,20 @@
 #       items:
 #         - Max Planck Medal
 
- - title: Academic Interests
-   type: nested_list
-   contents:
-     - title: Optimization.
-       items:
-         - Optimization for Deep learning, especially LLMs.
-         - Geometry-aware optimization on Riemannian manifolds and their app. in machine learning.
-     - title: Machine learining.
-       items:
-         - Meta-learning.
-         - Multi-modal learning.
-         - Deep learning.
+#  - title: Academic Interests
+#    type: nested_list
+#    contents:
+#      - title: Optimization.
+#        items:
+#          - Optimization for Deep learning, especially LLMs.
+#          - Geometry-aware optimization on Riemannian manifolds and their app. in machine learning.
+#      - title: Machine learining.
+#        items:
+#          - Meta-learning.
+#          - Multi-modal learning.
+#          - Deep learning.
 
- - title: Other Interests
-   type: list
-   contents:
-     - <u>Hobbies:</u> tabble tennis, reading books.
+#  - title: Other Interests
+#    type: list
+#    contents:
+#      - <u>Hobbies:</u> tabble tennis, reading books.
