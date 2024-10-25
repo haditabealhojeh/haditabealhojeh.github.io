@@ -32,7 +32,18 @@
       "startDate": "2018",
       "endDate": "2024",
       "score": "10",
-      "courses": ["Advanced theory of machine learning, Advanced Optimization methods"]
+      "courses": ["Advanced theory of machine learning, Advanced Optimization methods, Deep learning"]
+    },
+    {
+      "institution": "Shahid Chamran University of Ahvaz, Ahvaz, Iran",
+      "location": "Ahvaz, Iran",
+      "url": "https://scu.ac.ir/en/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C",
+      "area": "Artificial Intelligence",
+      "studyType": "Master of Science",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "10",
+      "courses": ["Pattern recognition, Evolutionary computation, Machine Vision, Machine learning "]
     }
   ]
   /*,
@@ -150,10 +161,10 @@
         "Quantum Teleportation"
       ]
     }
-  ],
+  ],*/
   "languages": [
     {
-      "language": "German",
+      "language": "Persian,
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,14 +172,19 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Arabic,
+      "fluency": "Native speaker",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Optimization",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
+        "Optimization methods for deep learning",
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
@@ -176,7 +192,8 @@
         "Quantum Teleportation"
       ]
     }
-  ],
+  ]
+  /*,
   "references": [
     {
       "name": "Professor John Doe",
