@@ -2,6 +2,7 @@
 page_id: about
 layout: about
 title: درباره من
+lang: fa
 permalink: /
 subtitle: مدرس دانشگاه و دانشمند داده.
 
