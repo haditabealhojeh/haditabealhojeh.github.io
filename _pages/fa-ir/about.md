@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: درباره من
 permalink: /
-subtitle: هادی تابع الحجه.
+subtitle: مدرس دانشگاه و دانشمند داده.
 
 profile:
   align: right
