@@ -5,13 +5,13 @@ title: About
 subtitle: Assistant Professor of Artificial Intelligence · University of Isfahan, Iran
 profile:
   align: right
-  image: profile.svg
-  image_circular: false
+  image: profile.png
+  image_circular: true
   more_info: >
     <p>University of Isfahan</p>
     <p>Isfahan, Iran</p>
-news: false
-selected_papers: false
+news: true
+selected_papers: true
 social: true
 ---
 
@@ -33,6 +33,6 @@ I welcome research discussions, academic collaborations, and industry projects r
 ### Find me online
 
 - [LinkedIn](https://www.linkedin.com/in/haditabealhojeh/)
-- [Google Scholar](https://scholar.google.com/) — replace with your profile URL
-- [ORCID](https://orcid.org/) — replace with your ORCID profile URL
-- [GitHub](https://github.com/) — replace with your GitHub profile URL
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/) 
+- [GitHub](https://github.com/)
