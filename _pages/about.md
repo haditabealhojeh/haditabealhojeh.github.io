@@ -5,15 +5,16 @@ title: About
 subtitle: Assistant Professor · University of Isfahan, Iran
 profile:
   align: right
-  image: profile.svg
-  image_circular: false
+  image: profile.png
+  image_circular: true
   more_info: >
     <p>Faculty of Computer Engineering</p>
     <p>University of Isfahan, Isfahan, Iran</p>
 news: true
 selected_papers: false
+news: true
+selected_papers: true
 social: true
----
 
 I am **Dr. Hadi Tabealhojeh**, an Assistant Professor at the **University of Isfahan, Iran**, and an AI/ML consultant working with industry teams. My work connects machine-learning research with practical AI systems.
 
@@ -39,6 +40,13 @@ I welcome academic collaboration, research discussions, and applied AI projects.
 
 ### Profiles
 
+<<<<<<< HEAD
 - [LinkedIn](https://www.linkedin.com/in/haditabe)
 - [Google Scholar](https://scholar.google.com/citations?user=dd8X_HgAAAAJ&hl=en)
 - [GitHub](https://github.com/haditabealhojeh)
+=======
+- [LinkedIn](https://www.linkedin.com/in/haditabealhojeh/)
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/) 
+- [GitHub](https://github.com/)
+>>>>>>> 0ff06fcbfbd712a3dd501534f1e5ad98635568b7
