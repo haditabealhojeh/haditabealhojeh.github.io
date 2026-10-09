@@ -40,13 +40,6 @@ I welcome academic collaboration, research discussions, and applied AI projects.
 
 ### Profiles
 
-<<<<<<< HEAD
 - [LinkedIn](https://www.linkedin.com/in/haditabe)
 - [Google Scholar](https://scholar.google.com/citations?user=dd8X_HgAAAAJ&hl=en)
 - [GitHub](https://github.com/haditabealhojeh)
-=======
-- [LinkedIn](https://www.linkedin.com/in/haditabealhojeh/)
-- [Google Scholar](https://scholar.google.com/)
-- [ORCID](https://orcid.org/) 
-- [GitHub](https://github.com/)
->>>>>>> 0ff06fcbfbd712a3dd501534f1e5ad98635568b7
