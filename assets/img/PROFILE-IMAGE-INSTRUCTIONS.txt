@@ -1,1 +1,1 @@
-Replace this file with a professional profile image named profile.png (or update the image path in _pages/about.md). A square image around 600 x 600 pixels works well. This bundle intentionally does not fabricate a portrait.
+The site currently uses a lightweight HT monogram avatar at profile.svg because no personal headshot was included. To use a professional photo, add a square image (around 600 × 600 pixels) to assets/img/ and update the image value in _pages/about.md.

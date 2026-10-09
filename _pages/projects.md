@@ -1,22 +1,26 @@
 ---
 layout: page
-title: Projects
+title: Research and Projects
 permalink: /projects/
-description: Research and applied AI projects by Dr. Hadi Tabealhojeh.
+description: Research directions and applied AI projects by Dr. Hadi Tabealhojeh.
 nav: true
 nav_order: 5
 ---
 
-## Riemannian optimization
+## Riemannian meta-learning
 
-Research on population-based and geometry-aware optimization algorithms for structured spaces such as Grassmann, Stiefel, rotation, oblique, and symmetric positive-definite manifolds.
+Optimization-based meta-learning methods for few-shot adaptation when model parameters or representations are subject to geometric constraints. Related work includes RMAML and FORML.
 
-## Meta-learning for structured data
+## Geometry-aware optimization
 
-Methods for few-shot adaptation and learning across tasks where representations or parameters have non-Euclidean structure.
+Research on optimization methods for structured spaces, including Grassmann, Stiefel, rotation, oblique, and symmetric positive-definite manifolds. This direction includes Riemannian and population-based optimization.
+
+## Multimodal and few-shot learning
+
+Methods for learning across tasks and modalities, with an emphasis on data efficiency, structured representations, and robust adaptation.
 
 ## Applied AI and ML engineering
 
-AI/ML consulting and deployment work, including model-serving APIs, evaluation pipelines, and reproducible ML infrastructure.
+Industry-facing AI work spanning model serving, evaluation pipelines, and reproducible machine-learning infrastructure. Client-specific details are omitted where they are confidential.
 
-_Add public repositories, demos, collaborators, and project outcomes here. Avoid including confidential client information._
+Public code repositories and demonstrations will be linked here as they become available.

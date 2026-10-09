@@ -2,27 +2,33 @@
 layout: page
 title: Research
 permalink: /research/
-description: Research interests of Dr. Hadi Tabealhojeh in AI, meta-learning, Riemannian geometry, and manifold optimization.
+description: Research by Dr. Hadi Tabealhojeh on meta-learning, Riemannian geometry, manifold optimization, and applied AI.
 nav: true
 nav_order: 2
 ---
 
-My research explores learning and optimization methods for problems where data or model parameters have geometric structure. A recurring goal is to develop algorithms that are mathematically principled while remaining practical for modern machine-learning tasks.
+My research focuses on learning and optimization when data, representations, or model parameters have geometric structure. I am interested in methods that combine mathematical foundations with practical performance in modern machine-learning tasks.
 
 ## Meta-learning and few-shot learning
 
-I study how models can adapt to new tasks from only a small number of examples, including meta-learning methods for structured and non-Euclidean representations.
+Meta-learning studies how a model can acquire the ability to adapt to new tasks from a small number of examples. My work explores optimization-based meta-learning, fast adaptation, and learning under geometric constraints.
 
 ## Riemannian geometry and manifold learning
 
-Many machine-learning problems involve data on curved spaces, including subspaces, rotations, and symmetric positive-definite matrices. I am interested in algorithms that respect this geometry rather than treating these spaces as ordinary Euclidean vectors.
+Many data and parameter spaces are not naturally Euclidean. Examples include spaces of subspaces, orthogonal matrices, rotations, and symmetric positive-definite matrices. I study algorithms that respect this structure rather than flattening it into an unconstrained vector space.
 
 ## Optimization on manifolds
 
-This direction includes population-based optimization, Riemannian optimization, and the design of algorithms that work across different manifolds and coordinate representations.
+This research direction includes Riemannian optimization, bilevel optimization, and geometry-aware population-based algorithms. An important goal is to design methods that are mathematically well-defined across different manifolds and useful for real optimization problems.
 
-## Deep learning and AI systems
+## Deep learning and multimodal learning
 
-I am also interested in deploying AI models in practical settings, including model serving, evaluation, and machine-learning infrastructure.
+I am interested in deep learning methods that learn from limited data or combine multiple modalities, including meta-learning approaches for structured representations.
 
-_This page describes broad research themes. Add specific projects, datasets, and current collaboration opportunities as they become available._
+## Applied AI and machine-learning systems
+
+Alongside theoretical research, I work on the engineering side of AI: model evaluation, inference services, reproducible workflows, deployment, and MLOps.
+
+### Collaboration
+
+I am interested in collaborations on meta-learning, manifold learning and optimization, few-shot learning, multimodal AI, and applied machine-learning systems.

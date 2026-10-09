@@ -1,6 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="Profile placeholder">
-  <rect width="480" height="480" rx="24" fill="#eef3f8"/>
-  <circle cx="240" cy="174" r="78" fill="#b8c9da"/>
-  <path d="M91 430c12-93 69-145 149-145s137 52 149 145" fill="#b8c9da"/>
-  <text x="240" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#34495e">Replace with your photo</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="Hadi Tabealhojeh monogram">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f1f6fb"/>
+      <stop offset="100%" stop-color="#dce8f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="480" rx="32" fill="url(#bg)"/>
+  <circle cx="240" cy="240" r="154" fill="#ffffff" opacity="0.82"/>
+  <circle cx="240" cy="240" r="137" fill="none" stroke="#9bb4cb" stroke-width="2"/>
+  <text x="240" y="267" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="600" letter-spacing="-8" fill="#254761">HT</text>
+  <path d="M168 311 H312" stroke="#7a9ab7" stroke-width="4" stroke-linecap="round"/>
 </svg>

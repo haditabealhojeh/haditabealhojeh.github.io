@@ -2,37 +2,43 @@
 layout: about
 permalink: /
 title: About
-subtitle: Assistant Professor of Artificial Intelligence · University of Isfahan, Iran
+subtitle: Assistant Professor · University of Isfahan, Iran
 profile:
   align: right
   image: profile.svg
   image_circular: false
   more_info: >
-    <p>University of Isfahan</p>
-    <p>Isfahan, Iran</p>
-news: false
+    <p>Faculty of Computer Engineering</p>
+    <p>University of Isfahan, Isfahan, Iran</p>
+news: true
 selected_papers: false
 social: true
 ---
 
-I am an **Assistant Professor of Artificial Intelligence at the University of Isfahan, Iran**, and an AI/ML consultant working with industry teams to translate machine-learning research into practical systems.
+I am **Dr. Hadi Tabealhojeh**, an Assistant Professor at the **University of Isfahan, Iran**, and an AI/ML consultant working with industry teams. My work connects machine-learning research with practical AI systems.
 
-My research lies at the intersection of **machine learning, meta-learning, and non-Euclidean geometry**. I am particularly interested in learning and optimization on Riemannian manifolds, few-shot learning, bilevel optimization, and methods that make advanced AI more reliable and useful in real-world applications.
+I completed my PhD in **Artificial Intelligence and Robotics** at the University of Isfahan (2019–2024). My doctoral research focused on **meta-learning in Riemannian spaces**, with an emphasis on optimization under geometric constraints and learning from limited data.
+
+My research interests include **meta-learning, few-shot learning, Riemannian geometry, manifold learning and optimization, deep learning, and multimodal learning**. Alongside academic research and teaching, I work on applied AI, model deployment, and machine-learning engineering.
 
 ### Research interests
 
-- **Meta-learning and few-shot learning** — learning to adapt from limited data.
-- **Riemannian geometry and manifold learning** — methods for structured, non-Euclidean data.
-- **Optimization for machine learning** — bilevel optimization and optimization algorithms on manifolds.
-- **Deep learning and AI systems** — practical deployment, MLOps, and applied AI.
+- **Meta-learning and few-shot learning** — adapting models to new tasks with limited examples.
+- **Riemannian and manifold learning** — learning with representations and parameters that have non-Euclidean structure.
+- **Geometric and bilevel optimization** — optimization methods that respect manifold constraints.
+- **Deep learning and multimodal AI** — learning from complex data and combining complementary modalities.
+- **Applied AI and ML engineering** — deploying and evaluating models in practical environments.
 
-I welcome research discussions, academic collaborations, and industry projects related to these topics.
+### Academic work
 
-[Research interests](/research/) · [Publications](/publications/) · [Teaching](/teaching/) · [Contact](mailto:YOUR-UNIVERSITY-EMAIL)
+I teach and develop course materials in **Deep Learning, Data Science, and Web Programming**. I have also taught at Shahid Chamran University of Ahvaz.
 
-### Find me online
+I welcome academic collaboration, research discussions, and applied AI projects.
 
-- [LinkedIn](https://www.linkedin.com/in/haditabealhojeh/)
-- [Google Scholar](https://scholar.google.com/) — replace with your profile URL
-- [ORCID](https://orcid.org/) — replace with your ORCID profile URL
-- [GitHub](https://github.com/) — replace with your GitHub profile URL
+[Research](/research/) · [Publications](/publications/) · [Teaching](/teaching/) · [CV](/cv/)
+
+### Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/haditabe)
+- [Google Scholar](https://scholar.google.com/citations?user=dd8X_HgAAAAJ&hl=en)
+- [GitHub](https://github.com/haditabealhojeh)

@@ -5,7 +5,11 @@ main:
     url: /research/
   - title: Publications
     url: /publications/
+  - title: News
+    url: /news/
   - title: Teaching
     url: /teaching/
   - title: Projects
     url: /projects/
+  - title: CV
+    url: /cv/

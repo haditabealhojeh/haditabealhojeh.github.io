@@ -7,10 +7,18 @@ nav: true
 nav_order: 4
 ---
 
-My teaching aims to connect core concepts, mathematical intuition, and implementation practice.
+My teaching emphasizes conceptual understanding, mathematical intuition, and practical implementation. I develop course materials and assignments that help students connect theory with hands-on work.
 
-- **Deep Learning** — neural-network fundamentals, training methods, and modern architectures.
-- **Data Science** — data preparation, exploratory analysis, modeling, and communicating results through projects.
-- **Web Programming** — semantic HTML, forms, AJAX, cookies and file handling, and Node.js fundamentals.
+## Deep Learning
 
-Course descriptions, lecture notes, assignments, and office-hour information can be added here for each semester.
+Neural-network fundamentals, optimization and training, representation learning, and modern deep-learning architectures.
+
+## Data Science
+
+Data preparation, exploratory data analysis, statistical reasoning, modeling, evaluation, and communicating results through project-based work. Students work with datasets they select for their projects.
+
+## Web Programming
+
+Semantic HTML, forms, asynchronous JavaScript and AJAX, cookies and file handling, and introductory server-side programming with Node.js.
+
+I have taught at the **University of Isfahan** and **Shahid Chamran University of Ahvaz**. Course schedules and materials are added when they are available for public distribution.

@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Dr. Hadi Tabealhojeh | AI Researcher"
-first_name: You
-middle_name: R.
-last_name: Name
+title: "Dr. Hadi Tabealhojeh | Artificial Intelligence and Machine Learning"
+first_name: Hadi
+middle_name: ""
+last_name: Tabealhojeh
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  For academic collaboration, research discussions, and professional inquiries, please connect via LinkedIn.
 description: "Dr. Hadi Tabealhojeh is an Assistant Professor at the University of Isfahan, Iran. His research focuses on artificial intelligence, machine learning, meta-learning, Riemannian geometry, and manifold optimization."
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  
+keywords: Hadi Tabealhojeh, artificial intelligence, machine learning, meta-learning, Riemannian geometry, manifold optimization, few-shot learning, deep learning, University of Isfahan
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: "https://haditabealhojeh.github.io"
@@ -109,8 +109,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -135,8 +135,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Research Notes # blog_name will be displayed in your blog page
+blog_description: Notes on machine learning, geometry, and applied AI
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -243,7 +243,12 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/plugins.md
+  - _pages/profiles.md
+  - _pages/repositories.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -347,16 +352,16 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [] # add research-note tags here when publishing blog posts
+display_categories: [] # add categories here when publishing blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tabealhojeh]
+  first_name: [Hadi]
 
   style: apa
   locale: en
@@ -711,4 +716,4 @@ jsonresume:
   - interests
   - references
 name: "Dr. Hadi Tabealhojeh"
-email: "YOUR-UNIVERSITY-EMAIL"
+email: ""
