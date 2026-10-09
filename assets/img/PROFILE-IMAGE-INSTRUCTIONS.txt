@@ -1,0 +1,1 @@
+Replace this file with a professional profile image named profile.png (or update the image path in _pages/about.md). A square image around 600 x 600 pixels works well. This bundle intentionally does not fabricate a portrait.
