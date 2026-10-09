@@ -15,7 +15,7 @@ selected_papers: false
 news: true
 selected_papers: true
 social: true
-
+---
 I am **Dr. Hadi Tabealhojeh**, an Assistant Professor at the **University of Isfahan, Iran**, and an AI/ML consultant working with industry teams. My work connects machine-learning research with practical AI systems.
 
 I completed my PhD in **Artificial Intelligence and Robotics** at the University of Isfahan (2019–2024). My doctoral research focused on **meta-learning in Riemannian spaces**, with an emphasis on optimization under geometric constraints and learning from limited data.
