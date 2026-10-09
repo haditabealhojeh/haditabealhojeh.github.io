@@ -25,4 +25,4 @@ This direction includes population-based optimization, Riemannian optimization, 
 
 I am also interested in deploying AI models in practical settings, including model serving, evaluation, and machine-learning infrastructure.
 
-*This page describes broad research themes. Add specific projects, datasets, and current collaboration opportunities as they become available.*
+_This page describes broad research themes. Add specific projects, datasets, and current collaboration opportunities as they become available._

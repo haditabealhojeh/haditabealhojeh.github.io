@@ -19,4 +19,4 @@ Methods for few-shot adaptation and learning across tasks where representations 
 
 AI/ML consulting and deployment work, including model-serving APIs, evaluation pipelines, and reproducible ML infrastructure.
 
-*Add public repositories, demos, collaborators, and project outcomes here. Avoid including confidential client information.*
+_Add public repositories, demos, collaborators, and project outcomes here. Avoid including confidential client information._

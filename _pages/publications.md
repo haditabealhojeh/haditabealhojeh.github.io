@@ -11,7 +11,7 @@ My work spans meta-learning, Riemannian learning, and optimization. Please use t
 
 ## Selected research records
 
-- **RMAML** — *Pattern Recognition*, volume 140 (2023), article 109563. Add the verified full title, author list, and publisher DOI before public launch.
+- **RMAML** — _Pattern Recognition_, volume 140 (2023), article 109563. Add the verified full title, author list, and publisher DOI before public launch.
 - **FORML** — Preprint, [arXiv:2402.18605](https://arxiv.org/abs/2402.18605).
 - **Modulation-based multimodal meta-learning using orthogonal generator** — manuscript submitted for peer review. Update the status and public link if/when appropriate.
 
