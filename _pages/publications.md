@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-The following list highlights selected peer-reviewed work and preprints. For the latest citation information, please see my [Google Scholar profile](https://scholar.google.com/citations?user=dd8X_HgAAAAJ&hl=en).
+The following list includes publications and preprints identified from the available profile and publication records. For the latest citation information, see my [Google Scholar profile](https://scholar.google.com/citations?user=dd8X_HgAAAAJ&hl=fa).
 
 ## 2026
 
@@ -29,6 +29,13 @@ Preprint, 2024.
 Hadi Tabealhojeh, Peyman Adibi, Hossein Karshenas, Soumava Kumar Roy, Mehrtash Harandi.  
 *Pattern Recognition*, 140, 109563, 2023.  
 [https://doi.org/10.1016/j.patcog.2023.109563](https://doi.org/10.1016/j.patcog.2023.109563)
+
+## 2015
+
+**PersianFarm: a Dataset for Persian Ontology Matching (in Persian)**  
+Hadi Tabealhojeh, Bita Shadgar.  
+*International Conference on Web Research (ICWR)*, 2015.  
+[Publication record](https://www.researchgate.net/publication/281464853_PersianFarm_a_Dataset_for_Persian_Ontology_Matching_in_Persian)
 
 ---
 
