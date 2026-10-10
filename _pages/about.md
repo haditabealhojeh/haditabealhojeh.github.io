@@ -5,7 +5,7 @@ title: About
 subtitle: Assistant Professor · University of Isfahan, Iran
 profile:
   align: right
-  image: profile.svg
+  image: profile.png
   image_circular: false
   more_info: >
     <p>Faculty of Computer Engineering</p>
