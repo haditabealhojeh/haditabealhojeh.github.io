@@ -8,20 +8,19 @@ profile:
   image: profile.png
   image_circular: false
   more_info: >
+    <p><a href="https://www.ui.ac.ir/" target="_blank" rel="noopener">University of Isfahan</a></p>
     <p>Faculty of Computer Engineering</p>
-    <p>University of Isfahan, Isfahan, Iran</p>
+    <p>Isfahan, Iran</p>
 news: true
 selected_papers: true
 social: true
 ---
 
-I am **Hadi Tabealhojeh**, an Assistant Professor at the **University of Isfahan, Iran**, and an AI/ML consultant working with industry teams. My work connects machine-learning research with practical AI systems.
+I am **Hadi Tabealhojeh**, an Assistant Professor at the <a href="https://www.ui.ac.ir/">University of Isfahan</a> in Iran and an AI/ML consultant working with industry teams. My work connects machine-learning research with practical AI systems. You can find more about my professional work on <a href="https://www.linkedin.com/in/haditabe">LinkedIn</a>, my research publications on <a href="https://scholar.google.com/citations?user=dd8X_HgAAAAJ&amp;hl=fa" >Google Scholar</a>, and selected code and projects on <a href="https://github.com/haditabealhojeh">GitHub</a>.
 
-I completed my PhD in **Artificial Intelligence and Robotics** at the University of Isfahan (2019–2024). My doctoral research focused on **meta-learning in Riemannian spaces**, with an emphasis on optimization under geometric constraints and learning from limited data.
+I completed my PhD in **Artificial Intelligence and Robotics** at the University of Isfahan (2019–2024). My doctoral research focused on **meta-learning in Riemannian spaces**, particularly optimization under geometric constraints and learning from limited data. My broader work spans meta-learning, few-shot learning, Riemannian geometry, manifold learning and optimization, deep learning, and multimodal learning, as well as applied AI, model deployment, and machine-learning engineering.
 
-My research interests include **meta-learning, few-shot learning, Riemannian geometry, manifold learning and optimization, deep learning, and multimodal learning**. Alongside academic research and teaching, I work on applied AI, model deployment, and machine-learning engineering.
+I teach and develop course materials in **Deep Learning, Data Science, and Web Programming**, and have also taught at <a href="https://scu.ac.ir/">Shahid Chamran University of Ahvaz</a>. I was selected for the **France–Iran Scientific Short Stays Scholarship Program 2026**, with a research stay hosted by <a href="https://www.gipsa-lab.grenoble-inp.fr/">GIPSA-lab</a> at <a href="https://www.univ-grenoble-alpes.fr/">Université Grenoble Alpes</a>. 
 
-I welcome academic collaboration, research discussions, and applied AI projects.
-
-
+I welcome academic collaboration, research discussions, student research projects, and applied AI collaborations.
 
