@@ -11,5 +11,9 @@ main:
     url: /teaching/
   - title: Projects
     url: /projects/
+  - title: Grants & Awards
+    url: /grants-awards/
+  - title: Theses & Supervision
+    url: /supervision/
   - title: CV
     url: /cv/
