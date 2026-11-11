@@ -11,23 +11,33 @@ I supervise and advise students working on research and applied projects in mach
 
 The entries below distinguish **supervision** from **advising** and will be expanded as thesis and student details are confirmed. Student names, photographs, and external profile links should be published only with the student's permission.
 
-## Current theses
+## Thesis projects and student researchers
 
-<!-- Add one card per ongoing thesis. Copy the template in SUPERVISION-PAGE-README.md. -->
+The following thesis projects are undertaken by students I advise or supervise. The role shown for each student reflects my involvement in the project.
 
-*Current thesis entries will be added here.*
+<div class="card mb-3">
+  <div class="card-body">
+    <h3 class="card-title">Dynamic Vehicle Routing Problem Using Multi-Agent Deep Reinforcement Learning</h3>
+    <p class="mb-1"><strong>Student:</strong> Farkhondeh Nikkhah</p>
+    <p class="mb-0"><strong>Role:</strong> Advisor</p>
+  </div>
+</div>
 
-## Completed theses
+<div class="card mb-3">
+  <div class="card-body">
+    <h3 class="card-title">Query-Based Video Summarization via Multimodal Retrieval</h3>
+    <p class="mb-1"><strong>Student:</strong> Amin Ahmadpoor</p>
+    <p class="mb-0"><strong>Role:</strong> Advisor</p>
+  </div>
+</div>
 
-<!-- Add completed theses here, including the degree, completion year, and public thesis or publication link when available. -->
-
-*Completed thesis entries will be added here.*
-
-## Student researchers
-
-This section introduces students whose research I supervise or advise. Each profile can include the student's name, degree programme, research interests, thesis title, role (supervisor or advisor), and links to publications or professional profiles.
-
-*Student profiles will be added here after their details and publication preferences are confirmed.*
+<div class="card mb-3">
+  <div class="card-body">
+    <h3 class="card-title">Factual Hallucination Detection in LLMs Using a Hybrid Self-Consistency and Uncertainty-Based Approach</h3>
+    <p class="mb-1"><strong>Student:</strong> Hasan Shamsi</p>
+    <p class="mb-0"><strong>Role:</strong> Supervisor</p>
+  </div>
+</div>
 
 ## Research opportunities
 
