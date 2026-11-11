@@ -2,7 +2,6 @@
 layout: page
 title: Research
 permalink: /research/
-description: Research interests of Dr. Hadi Tabealhojeh in Riemannian meta-learning, manifold learning, dynamic vehicle routing, machine unlearning, and multimodal deep learning.
 nav: true
 nav_order: 2
 ---
