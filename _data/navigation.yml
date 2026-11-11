@@ -5,11 +5,11 @@ main:
     url: /research/
   - title: Publications
     url: /publications/
+  - title: Theses & Supervision
+    url: /supervision/
   - title: News
     url: /news/
   - title: Teaching
     url: /teaching/
   - title: Grants & Awards
     url: /grants-awards/
-  - title: Theses & Supervision
-    url: /supervision/
