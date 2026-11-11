@@ -15,7 +15,7 @@ This page highlights research funding, scholarships, and academic recognition. E
 
 - **Host institution:** [GIPSA-lab](https://www.gipsa-lab.grenoble-inp.fr/), [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/), France.
 - **Research topic:** Backpropagation-free Riemannian Meta-Learning for Brain–Computer Interfaces (BCI).
-- **Period:** October–December 2026, subject to the final dates in the official scholarship and host documents.
+- **Period:** October–December 2027, subject to the final dates in the official scholarship and host documents.
 
 The research stay supports collaboration on Riemannian machine learning and learning methods for BCI. This entry describes the scholarship selection and planned visit; it should not be interpreted as a claim about a monetary award amount.
 
