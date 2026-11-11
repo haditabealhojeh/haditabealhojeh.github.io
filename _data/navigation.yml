@@ -9,8 +9,6 @@ main:
     url: /news/
   - title: Teaching
     url: /teaching/
-  - title: Projects
-    url: /projects/
   - title: Grants & Awards
     url: /grants-awards/
   - title: Theses & Supervision
