@@ -7,13 +7,8 @@ nav: true
 nav_order: 9
 ---
 
-I supervise and advise students working on research and applied projects in machine learning, deep learning, meta-learning, Riemannian geometry, manifold learning and optimization, multimodal learning, and intelligent systems. This page highlights thesis topics and student research at undergraduate, master's, and PhD levels.
-
-The entries below distinguish **supervision** from **advising** and will be expanded as thesis and student details are confirmed. Student names, photographs, and external profile links should be published only with the student's permission.
-
 ## Thesis projects and student researchers
 
-The following thesis projects are undertaken by students I advise or supervise. The role shown for each student reflects my involvement in the project.
 
 <div class="card mb-3">
   <div class="card-body">
