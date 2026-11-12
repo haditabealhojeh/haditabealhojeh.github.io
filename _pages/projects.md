@@ -12,23 +12,19 @@ Selected industrial projects in artificial intelligence, optimization, logistics
 
 ---
 
-## 01. Vehicle Routing Optimization
-
-**Design and Implementation of a Multi-Depot Vehicle Routing Problem with Time Windows (MDVRPTW) System**
+## 01. Design and Implementation of a Multi-Depot Vehicle Routing Problem with Time Windows (MDVRPTW) System
 
 <div dir="rtl" style="text-align: right; font-size: 1.05rem;">
 طراحی و پیاده‌سازی سامانه مسیریابی وسایل نقلیه با چند انبار و پنجره‌های زمانی
 </div>
 
-**Sepahan Battery Industrial Group** · گروه صنعتی سپاهان
+**Sepahan Battery Industrial Group** · گروه صنعتی سپاهان باتری
 
-<span class="badge badge-success">Completed</span>
+2026 · <span class="badge badge-success">Completed</span>
 
 ---
 
-## 02. Enterprise Data Integration
-
-**Design, Development, and Deployment of an Enterprise Data Aggregation, Processing, and Integration Pipeline**
+## 02. Design, Development, and Deployment of an Enterprise Data Aggregation, Processing, and Integration Pipeline
 
 <div dir="rtl" style="text-align: right; font-size: 1.05rem;">
 طراحی، توسعه و راه‌اندازی خط لوله تجمیع، پردازش و یکپارچه‌سازی داده‌ها
@@ -40,9 +36,7 @@ Selected industrial projects in artificial intelligence, optimization, logistics
 
 ---
 
-## 03. Data Integration & Decision Optimization
-
-**Design and Implementation of a Data Integration and Decision Optimization System**
+## 03. Design and Implementation of a Data Integration and Decision Optimization System
 
 <div dir="rtl" style="text-align: right; font-size: 1.05rem;">
 طراحی و پیاده‌سازی سامانه یکپارچه‌سازی داده‌ها و بهینه‌سازی تصمیم‌گیری
@@ -54,9 +48,7 @@ Selected industrial projects in artificial intelligence, optimization, logistics
 
 ---
 
-## 04. Intelligent Financial Data Analysis
-
-**Development of a Comprehensive Platform for Contract Financial Data Analysis and Intelligent Reporting**
+## 04. Development of a Comprehensive Platform for Contract Financial Data Analysis and Intelligent Reporting
 
 <div dir="rtl" style="text-align: right; font-size: 1.05rem;">
 توسعه سامانه جامع تحلیل و گزارش‌ساز هوشمند داده‌های مالی قراردادها
@@ -68,9 +60,7 @@ Selected industrial projects in artificial intelligence, optimization, logistics
 
 ---
 
-## 05. AI-Driven Logistics & Transportation
-
-**AI-Driven Intelligence for Logistics and Transportation Processes**
+## 05. AI-Driven Intelligence for Logistics and Transportation Processes
 
 <div dir="rtl" style="text-align: right; font-size: 1.05rem;">
 هوشمندسازی فرایندهای لجستیکی و حمل‌ونقل با استفاده از هوش مصنوعی
